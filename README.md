@@ -71,7 +71,7 @@ hobbies: ["Problem-Solving","Reading" "Movies",]
 <a href="https://www.linkedin.com/in/manal-aboelezz-008441229/" target="blank"><img align="center" title="@Man0l" src="assets/social_logos/linkedin.svg" alt="@Man0l" height="50" width="50" /></a>
 <a href="https://twitter.com/ManalHatem1" target="blank"><img align="center" title="@ManalHatem1" src="assets/social_logos/twitter.svg" alt="@ManalHatem1" height="50" width="50" /></a>
 <a href="https://www.instagram.com/nourhatem213" target="blank"><img align="center" title="@ManalHatem1" src="assets/social_logos/instagram.svg" alt="@ManalHatem1" height="50" width="50" /></a>
-<a href="https://wa.me/+20 1066377262" target="blank"><img align="center" title="@ManalHatem1" src="assets/social_logos/whatsapp.svg" alt="@ManalHatem1" height="50" width="50" /></a>
+<a href="https://wa.me/01066377262" target="blank"><img align="center" title="@ManalHatem1" src="assets/social_logos/whatsapp.svg" alt="@ManalHatem1" height="50" width="50" /></a>
 
 </p>
 <br/>
